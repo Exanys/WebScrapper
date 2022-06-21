@@ -1,0 +1,8 @@
+./venv
+.env
+contacts.csv
+html.txt
+.idea
+html.txt
+contacts*
+geckodriver.log
